@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         
         let sayHello = "Hello World"
         print(sayHello)
+        print("Selam")
     }
 
 
