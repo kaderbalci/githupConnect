@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         print("Merhaba")
         print("Emrah")
         print("Profil")
+        print("Profil 2")
     }
 
 
